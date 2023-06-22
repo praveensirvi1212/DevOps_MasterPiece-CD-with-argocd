@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: spring-app
-        image: praveensirvi/spring-app:51-270aaf6d6bf6ff156230b951a54fb817847bd7c3
+        image: praveensirvi/spring-app:52-270aaf6d6bf6ff156230b951a54fb817847bd7c3
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 8081
