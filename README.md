@@ -1,4 +1,5 @@
 # DevOps_MasterPiece-CD-with-argocd
 
-This repo contains deployment ( to deploy the application) and service (to expsoe to application) manifest for kubernetes.
+This repo contains the deployment ( to deploy the application) and service (to expose to application) manifest for Kubernetes.
 
+I configured this repo with ArgoCD for continuous deployment.
